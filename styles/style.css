@@ -347,11 +347,10 @@
   color: #ffffff;
   font-size: 16px;
   line-height: 20px;
-  padding-bottom: 60px;
+  padding: 60px 80px;
 }
 
 .footer__columns {
-  padding: 60px 80px 100px;
   display: flex;
 }
 
@@ -401,5 +400,5 @@
 }
 
 .footer__copyright {
-  padding-left: 80px;
+  margin-top: 100px;
 }
