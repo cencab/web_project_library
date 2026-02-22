@@ -1,6 +1,6 @@
 # Proyecto 2: Biblioteca Triple Peaks
 
-**🔗 Ver el proyecto en vivo:** [Coloca aquí tu enlace de GitHub Pages cuando lo tengas]
+**🔗 Ver el proyecto en vivo:** https://cencab.github.io/web_project_library/
 
 ## Descripción
 
